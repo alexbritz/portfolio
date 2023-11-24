@@ -12,3 +12,12 @@ Python, Data Analysis and Visualization, AI Applications for Science and Academi
 * 2017: Dr. rer. nat. in Physics, Uni Hamburg
 * 2013-2017: PhD Student and Postdoc at European XFEL
 * 2006-2012: Studies of Physics, TU Darmstadt
+
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+    <iframe src="https://glassdoorjobdashboard-lebe6kuzetg7ndj77t9mnm.streamlit.app/?embed=true" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allowfullscreen>
+    </iframe>
+</div>
