@@ -4,3 +4,11 @@ As a trainer and coach, I specialize in working with young scientists. I am by e
 
 ## Key Skills
 Python, Data Analysis and Visualization, AI Applications for Science and Academia, Communication and Behavioral Trainings, Scientific Writing and Presentation, Conflict Resolution, Ethics of Science and Academia
+
+## Selected Milestones from My CV (Education and Work Experience)
+* Since 2020: Self-employed Trainer, Facilitator, Coach and Lecturer 
+* 2022-2023: Certification Trainer for Communication and Behavior, ARTOP Berlin
+* 2018-2020: Research Associate at Stanford University and SLAC
+* 2017: Dr. rer. nat. in Physics, Uni Hamburg
+* 2013-2017: PhD Student and Postdoc at European XFEL
+* 2006-2012: Studies of Physics, TU Darmstadt
