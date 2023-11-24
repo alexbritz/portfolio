@@ -13,7 +13,8 @@ Python, Data Analysis and Visualization, AI Applications for Science and Academi
 * 2013-2017: PhD Student and Postdoc at European XFEL
 * 2006-2012: Studies of Physics, TU Darmstadt
 
-
+## Projects
+### Interactive Dashboard
 <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
     <iframe src="https://glassdoorjobdashboard-lebe6kuzetg7ndj77t9mnm.streamlit.app/?embed=true" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
@@ -21,3 +22,5 @@ Python, Data Analysis and Visualization, AI Applications for Science and Academi
             allowfullscreen>
     </iframe>
 </div>
+
+Finde the [repository here](https://github.com/alexbritz/glassdoor_job_dashboard.git) 
